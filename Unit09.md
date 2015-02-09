@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO302: Human Anatomy"
+course_description: "An examination of the structure of the human body at the cellular, tissue, organ, and organ system levels. Topics include: the integumentary, skeletal, muscular, nervous, cardiovascular, lymphatic, respiratory, digestive, urinary, endocrine, and reproductive systems."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Digestive System** <span id="9"></span> 
 **Digestion allows you to extract useful nutrients from your food.  The
 digestive process begins as soon as you put food into your mouth, when

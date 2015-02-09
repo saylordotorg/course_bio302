@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO302: Human Anatomy"
+course_description: "An examination of the structure of the human body at the cellular, tissue, organ, and organ system levels. Topics include: the integumentary, skeletal, muscular, nervous, cardiovascular, lymphatic, respiratory, digestive, urinary, endocrine, and reproductive systems."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Muscular System** <span id="4"></span> 
 **Muscles hold the skeletal framework together, enable us to move, and
 allow us to react to our environment.  In this unit, we will learn about

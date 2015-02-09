@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO302: Human Anatomy"
+course_description: "An examination of the structure of the human body at the cellular, tissue, organ, and organ system levels. Topics include: the integumentary, skeletal, muscular, nervous, cardiovascular, lymphatic, respiratory, digestive, urinary, endocrine, and reproductive systems."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Skeletal System** <span id="3"></span> 
 *In this unit, we will study the different types of bone tissues and
 cells that comprise the skeletal framework.  We will learn bone naming

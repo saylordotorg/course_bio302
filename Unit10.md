@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO302: Human Anatomy"
+course_description: "An examination of the structure of the human body at the cellular, tissue, organ, and organ system levels. Topics include: the integumentary, skeletal, muscular, nervous, cardiovascular, lymphatic, respiratory, digestive, urinary, endocrine, and reproductive systems."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: Urinary System** <span id="10"></span> 
 **The urinary system allows us to excrete potentially toxic wastes from
 our bodies without losing the water-salt balance that our physiological

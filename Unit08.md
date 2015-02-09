@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO302: Human Anatomy"
+course_description: "An examination of the structure of the human body at the cellular, tissue, organ, and organ system levels. Topics include: the integumentary, skeletal, muscular, nervous, cardiovascular, lymphatic, respiratory, digestive, urinary, endocrine, and reproductive systems."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Respiratory System** <span id="8"></span> 
 **When you breathe, the organs and tissues of your respiratory system
 are working together in one cooperative action known as the breathing

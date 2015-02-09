@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO302: Human Anatomy"
+course_description: "An examination of the structure of the human body at the cellular, tissue, organ, and organ system levels. Topics include: the integumentary, skeletal, muscular, nervous, cardiovascular, lymphatic, respiratory, digestive, urinary, endocrine, and reproductive systems."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction to Anatomy** <span id="1"></span> 
 **This unit will provide you with a quick overview of the body in order
 to contextualize the subsequent units.  We will begin by covering

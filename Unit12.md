@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO302: Human Anatomy"
+course_description: "An examination of the structure of the human body at the cellular, tissue, organ, and organ system levels. Topics include: the integumentary, skeletal, muscular, nervous, cardiovascular, lymphatic, respiratory, digestive, urinary, endocrine, and reproductive systems."
+next: ../Unit13
+previous: ../Unit11
+---
 **Unit 12: The Reproductive System** <span id="12"></span> 
 **In this unit, we will learn the anatomical structures of the male and
 female reproductive systems, which are entirely responsible for our
