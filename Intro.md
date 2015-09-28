@@ -131,3 +131,4 @@ Subunit 1.2 (a total of 3.5 hours) on Tuesday night, etc.
 - [Unit 11](https://legacy.saylor.org/bio302/Unit11/)
 - [Unit 12](https://legacy.saylor.org/bio302/Unit12/)
 - [Unit 13](https://legacy.saylor.org/bio302/Unit13/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/BIO/BIO302/BIO302-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/BIO/BIO302/BIO302-FinalExam-Answers.html)
