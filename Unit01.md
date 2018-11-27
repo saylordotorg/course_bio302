@@ -79,7 +79,7 @@ Upon successful completion of this unit, the student will be able to:
     Anatomy and Surface Markings”**
     Link: Gray’s Anatomy of the Human Body: [Chapter XII - “Surface
     Anatomy and Surface
-    Markings”](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XII.pdf)
+    Markings”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XII.pdf)
     (PDF)  
         
      Instructions: Please read the entirety of Chapter XII: “Surface

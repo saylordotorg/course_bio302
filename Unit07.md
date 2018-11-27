@@ -47,11 +47,11 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Gray’s Anatomy of the Human Body: Chapter VIII: The
     Lymphatic System**
     Link: Gray’s Anatomy of the Human Body: [Chapter VIII: The Lymphatic
-    System](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-VIII-Lymphatic-System.pdf)(PDF)  
+    System](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-VIII-Lymphatic-System.pdf)(PDF)  
       
      Also available in:   
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/BIO302-ch8-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-ch8-Bartleby.com_.epub)  
       
      Instructions: Please read the entirety of Chapter VIII: “The
     Lymphatic System” to learn about the anatomy of the lymphatic system

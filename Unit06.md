@@ -65,11 +65,11 @@ Upon successful completion of this unit, the student will be able to:
     Section 4b - “The Heart”**
     Link: Gray’s Anatomy of the Human Body: [Chapter V - Angiology,
     Section 4b - “The
-    Heart”](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-V-Heart.pdf)(PDF)  
+    Heart”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-V-Heart.pdf)(PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/BIO302-ch5-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-ch5-Bartleby.com_.epub)  
       
      Instructions: Please read this page to learn about the organization
     and anatomy of the heart.      
@@ -119,11 +119,11 @@ Upon successful completion of this unit, the student will be able to:
     Body: Chapter VI - The Arteries**
     Links: Bartleby.com’s version of Gray’s Anatomy of the Human Body:
     [Chapter VI - The
-    Arteries](http://www.saylor.org/site/wp-content/uploads/2011/07/BIO302-ch6.pdf)(PDF)  
+    Arteries](https://resources.saylor.org/archived/wp-content/uploads/2011/07/BIO302-ch6.pdf)(PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/BIO302-ch6-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-ch6-Bartleby.com_.epub)  
       
      Instructions: Please read the entirety of Chapter VI - “The
     Arteries” to learn about the anatomy of the arteries and arterial
@@ -158,11 +158,11 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Gray’s Anatomy of the Human Body: Chapter VII - The
     Veins**
     Links: Gray’s Anatomy of the Human Body: [Chapter VII - The
-    Veins](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-VII-Veins.pdf)(PDF)  
+    Veins](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-VII-Veins.pdf)(PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/BIO302-ch7-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-ch7-Bartleby.com_.epub)  
       
      Instructions: Please read the entirety of Chapter VII - “The Veins”
     to learn about the anatomy of the veins and venous system.  This

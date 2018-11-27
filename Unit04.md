@@ -81,14 +81,14 @@ Upon successful completion of this unit, the student will be able to:
     Fasciae and Muscles of the Anterolateral Region of the Neck”**
     Link: Gray’s Anatomy of the Human Body: Chapter IV - Myology,
     Sections 4 “[The Fasciae and Muscles of the
-    Head](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-IV-Fasciae-and-Muscles-of-the-Head.pdf)”
+    Head](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-IV-Fasciae-and-Muscles-of-the-Head.pdf)”
     and 5 - “[The Fasciae and Muscles of the Anterolateral Region of the
-    Neck](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-IV-Fasciae-and-Muscles-of-the-Anterolateral-Region-of-the-Neck.pdf)”
+    Neck](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-IV-Fasciae-and-Muscles-of-the-Anterolateral-Region-of-the-Neck.pdf)”
     (PDF)  
         
      Also available in:   
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/BIO302-ch4-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-ch4-Bartleby.com_.epub)  
       
      Instructions: Click the links above and read each section in its
     entirety.  As you read, pay particular attention to the muscles
@@ -123,14 +123,14 @@ Upon successful completion of this unit, the student will be able to:
     “The Muscles and Fasciae of the Arm**
     Link: Gray’s Anatomy of the Human Body: [Chapter IV - Myology,
     Section 7c - “The Muscles and Fasciae of the
-    Shoulder”](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-IV-Fasciae-of-Shoulder.pdf)and
+    Shoulder”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-IV-Fasciae-of-Shoulder.pdf)and
     [7d - “The Muscles and Fasciae of the
-    Arm”](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-IV-Fasciae-of-Arm.pdf)
+    Arm”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-IV-Fasciae-of-Arm.pdf)
     (PDF)  
       
      Also available in:   
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/BIO302-ch4-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-ch4-Bartleby.com_.epub)  
       
      Instructions: Please read these two pages to learn about the
     muscular anatomy of the shoulder and upper arm.  
@@ -142,12 +142,12 @@ Upon successful completion of this unit, the student will be able to:
     Section 7e - “The Muscles and Fasciae of the Forearm”**
     Link: Gray’s Anatomy of the Human Body: [Chapter IV - Myology,
     Section 7e - “The Muscles and Fasciae of the
-    Forearm”](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-IV-Fasciae-of-Forearm.pdf)
+    Forearm”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-IV-Fasciae-of-Forearm.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/BIO302-ch4-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-ch4-Bartleby.com_.epub)  
       
      Instructions: Please read this page to learn about the muscular
     anatomy of the forearm.  
@@ -159,11 +159,11 @@ Upon successful completion of this unit, the student will be able to:
     Section 7f - “The Muscles and Fasciae of the Hand”**
     Link: Gray’s Anatomy of the Human Body: [Chapter IV - Myology,
     Section 7f - “The Muscles and Fasciae of the
-    Hand”](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-IV-Fasciae-of-Hand.pdf)(PDF)  
+    Hand”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-IV-Fasciae-of-Hand.pdf)(PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/BIO302-ch4-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-ch4-Bartleby.com_.epub)  
       
      Instructions: Please read this page to learn about the muscular
     anatomy of the wrist and hand.  
@@ -197,11 +197,11 @@ Upon successful completion of this unit, the student will be able to:
     Section 6 - “The Fasciae and Muscles of the Trunk”**
     Link: Gray’s Anatomy of the Human Body: [Chapter IV - Myology,
     Section 6 - “The Fasciae and Muscles of the
-    Trunk”](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-IV-Fasciae-of-Trunk.pdf)(PDF)  
+    Trunk”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-IV-Fasciae-of-Trunk.pdf)(PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/BIO302-ch4-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-ch4-Bartleby.com_.epub)  
       
      Instructions: Click the link above and read the chapter in its
     entirety.  
@@ -233,12 +233,12 @@ Upon successful completion of this unit, the student will be able to:
     Section 8: “The Muscles and Fasciae of the Lower Extremity”**
     Link: Gray’s Anatomy of the Human Body: [Chapter IV - Myology,
     Section 8: “The Muscles and Fasciae of the Lower
-    Extremity”](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-IV-Fasciae-Lower-Extremity.pdf)
+    Extremity”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-IV-Fasciae-Lower-Extremity.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/BIO302-ch4-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-ch4-Bartleby.com_.epub)  
       
      Instructions: Click the link above and read the chapter to its
     entirety.  As you read, pay particular attention to how the muscles
@@ -274,12 +274,12 @@ Upon successful completion of this unit, the student will be able to:
      Link: Gray’s Anatomy of the Human Body: [Chapter IV - Myology,
     Section 1, 2, and 3 - “The Mechanics of Muscle” through “Tendons,
     Aponeuroses, and
-    Fasciae”](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-IV-Mechanics-of-Muscles.pdf)
+    Fasciae”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-IV-Mechanics-of-Muscles.pdf)
     (PDF)  
       
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/BIO302-ch4-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-ch4-Bartleby.com_.epub)  
         
      Instructions: Read the sections linked above.  As you read, pay
     particular attention to understanding the anatomy of muscle, the
