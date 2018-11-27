@@ -74,7 +74,7 @@ Upon successful completion of this unit, students will be able to:
     Section 1 - “Structure of the Nervous System”**
     Link: Gray’s Anatomy of the Human Body: [Chapter IX - Neurology,
     Section 1 - “Structure of the Nervous
-    System”](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-IX-Structure-of-Nervous-System.pdf)(HTML)  
+    System”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-IX-Structure-of-Nervous-System.pdf)(HTML)  
         
      Instructions: Please read this page to learn about each of the
     different types of nervous tissue listed below - neurons and
@@ -161,12 +161,12 @@ Upon successful completion of this unit, students will be able to:
     Section 2 - “Development of the Nervous System”**
     Link: Gray’s Anatomy of the Human Body: [Chapter IX - Neurology,
     Section 2 - “Development of the Nervous
-    System”](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-IX-Development-of-Nervous-System.pdf)
+    System”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-IX-Development-of-Nervous-System.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/BIO302-ch9-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-ch9-Bartleby.com_.epub)  
       
      Instructions: Please read this page to learn about the development
     of the nervous system in an embryo.  This text features particularly
@@ -199,11 +199,11 @@ Upon successful completion of this unit, students will be able to:
     Section 5 - “The Cranial Nerves”**
     Link: Gray’s Anatomy of the Human Body: [Chapter IX - Neurology,
     Section 5 - “The Cranial
-    Nerves”](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-IX-Cranial-Nerves.pdf)(PDF)  
+    Nerves”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-IX-Cranial-Nerves.pdf)(PDF)  
       
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/BIO302-ch9-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-ch9-Bartleby.com_.epub)  
       
      Instructions: Please read Section 5 (“The Cranial Nerves”) of
     Chapter IX - “Neurology” to learn about the twelve nerves that
@@ -269,11 +269,11 @@ Upon successful completion of this unit, students will be able to:
     Sections 3 - “The Spinal Cord or Medulla Spinalis”**
     Link: Gray’s Anatomy of the Human Body: [Chapter IX - Neurology,
     Section 3 - “The Spinal Cord or Medulla
-    Spinalis”](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-IX-Spinal-Cord-or-Medulla-Spinalis.pdf) (PDF)  
+    Spinalis”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-IX-Spinal-Cord-or-Medulla-Spinalis.pdf) (PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/BIO302-ch9-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-ch9-Bartleby.com_.epub)  
       
      Instructions: Please read Section 3 of Chapter IX - “Neurology” to
     learn about the anatomy of the spinal cord.   
@@ -340,12 +340,12 @@ Upon successful completion of this unit, students will be able to:
     Encephalon”**
     Link: Bartleby.com’s version of Gray’s Anatomy of the Human Body:
     [Chapter IX - Neurology, Section 4 - “The Brain or
-    Encephalon”](http://www.saylor.org/site/wp-content/uploads/2011/07/BIO302-ch9.pdf)
+    Encephalon”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/BIO302-ch9.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/BIO302-ch9-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-ch9-Bartleby.com_.epub)  
       
      Instructions: Please read Section 4 (“The Brain or Encephalon”) of
     Chapter IX - “Neurology” to learn about the anatomy of the brain,
@@ -361,11 +361,11 @@ Upon successful completion of this unit, students will be able to:
     Section 7 - “The Spinal Nerves”**
     Link: Gray’s Anatomy of the Human Body:  [Chapter IX - Neurology,
     Section 6 - “The Spinal
-    Nerves”](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-IX-Spinal-Nerves.pdf)(PDF)  
+    Nerves”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-IX-Spinal-Nerves.pdf)(PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/BIO302-ch9-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-ch9-Bartleby.com_.epub)  
       
      Instructions: Please read Section 7 of Chapter IX - “Neurology” to
     learn about the spinal nerves which connect the spinal cord to the
@@ -379,11 +379,11 @@ Upon successful completion of this unit, students will be able to:
     Section 7: “The Sympathetic Nerves”**
     Link: Gray’s Anatomy of the Human Body: [Chapter IX: Neurology,
     Section 7: “The Sympathetic
-    Nerves”](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-IX-Sympathetic-Nerves.pdf)(PDF)  
+    Nerves”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-IX-Sympathetic-Nerves.pdf)(PDF)  
         
      Also available in:   
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/BIO302-ch9-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-ch9-Bartleby.com_.epub)  
       
      Instructions: This reading is optional.  If so desired, please read
     Section 7 (“The Sympathetic Nerves”) of Chapter IX: “Neurology” for
@@ -429,7 +429,7 @@ Upon successful completion of this unit, students will be able to:
 **5.3.2 Somatic Nervous System** <span id="5.3.2"></span> 
 -   **Reading: Wikipedia’s “Somatic Nervous System”**
     Link: Wikipedia’s [“Somatic Nervous
-    System”](http://www.saylor.org/site/wp-content/uploads/2011/08/BIO302-5.3.2.pdf)(PDF)  
+    System”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-5.3.2.pdf)(PDF)  
         
      Instructions: Please read this page to learn about the innervation
     of the somatic nervous system, which governs voluntary movements.  

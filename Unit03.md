@@ -101,14 +101,14 @@ Upon successful completion of this unit, the student will be able to:
     Skull)”**
     Link: Gray’s Anatomy of the Human Body: Chapter II:[“Osteology,
     Section 3 (The Vertebral
-    Column)](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_-Body-Chapter-II-Vertebral-Column.pdf)
+    Column)](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_-Body-Chapter-II-Vertebral-Column.pdf)
     (PDF), [Section 4 (The
-    Thorax)](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-II-Thorax.pdf)
+    Thorax)](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-II-Thorax.pdf)
     (PDF), and Section 5 (The Skull) (PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/BIO302-ch2-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-ch2-Bartleby.com_.epub)  
       
      Instructions: Once you click on the link above, scroll down the
     Table of Contents page to find and read Sections 3 (The Vertebral
@@ -146,17 +146,17 @@ Pelvic Girdles** <span id="3.1.2"></span> 
     Foot”**
     Link: Gray’s Anatomy of the Human Body: [Chapter II: Osteology,
     Sections 6a: “The Bones of the Upper
-    Extremity](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-II-Bones-of-the-Upper-Extremity.pdf)”
+    Extremity](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-II-Bones-of-the-Upper-Extremity.pdf)”
     (PDF), [6b: “The
-    Hand](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-II-The-Hand.pdf)” (PDF),
+    Hand](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-II-The-Hand.pdf)” (PDF),
     [6c: “The Bones of the Lower
-    Extremity](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-II-Bones-of-the-Lower-Extremity.pdf)”
+    Extremity](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-II-Bones-of-the-Lower-Extremity.pdf)”
     (PDF), and [6d: “The
-    Foot”](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-II-The-Foot.pdf) (PDF)  
+    Foot”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-II-The-Foot.pdf) (PDF)  
       
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/BIO302-ch2with6c6d-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-ch2with6c6d-Bartleby.com_.epub)  
         
      Instructions: Click the links above and read each section.   
         
@@ -182,12 +182,12 @@ Pelvic Girdles** <span id="3.1.2"></span> 
 -   **Reading: Gray’s Anatomy of the Human Body: Chapter III:
     Syndesmosology**
     Link: Gray’s Anatomy of the Human Body: [Chapter III -
-    Syndesmology](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-III.pdf)
+    Syndesmology](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-III.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/BIO302-ch3-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-ch3-Bartleby.com_.epub)  
       
      Instructions: Click the link above and read the entirety of the
     chapter.  

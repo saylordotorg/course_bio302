@@ -57,11 +57,11 @@ Upon successful completion of this unit, the student will be able to:
     Splanchnology, Section 4d - “The Hypophysis Cerebri”**
     Link: Gray’s Anatomy of the Human Body: [Chapter XI - Splanchnology,
     Section 4d - “The Hypophysis
-    Cerebri”](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Hypophysis-cerebri.pdf)(PDF)  
+    Cerebri”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Hypophysis-cerebri.pdf)(PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
       
      Instructions: Please read this page to learn about the anatomy of
     the pituitary gland and its role in the endocrine system.     
@@ -73,11 +73,11 @@ Upon successful completion of this unit, the student will be able to:
     Splanchnology, Section 4e - “The Pineal Body”**
     Link: Gray’s Anatomy of the Human Body: [Chapter XI - Splanchnology,
     Section 4e - “The Pineal
-    Body”](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Pineal-Body.pdf)(PDF)  
+    Body”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Pineal-Body.pdf)(PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
       
      Instructions: Please read this page to learn about the anatomy of
     the pineal gland and its role in the endocrine system.  
@@ -89,11 +89,11 @@ Upon successful completion of this unit, the student will be able to:
     Splanchnology, Section 4c - “The Thymus”**
     Link: Gray’s Anatomy of the Human Body: [Chapter XI - Splanchnology,
     Section 4c - “The
-    Thymus”](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Thymus.pdf)(PDF)  
+    Thymus”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Thymus.pdf)(PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
       
      Instructions: Please read this page to learn about the anatomy of
     the thymus and its role in the endocrine system.    
@@ -105,11 +105,11 @@ Upon successful completion of this unit, the student will be able to:
     Splanchnology, Section 4a - “The Thyroid Gland”**
     Link: Gray’s Anatomy of the Human Body: [Chapter XI - Splanchnology,
     Section 4a - “The Thyroid
-    Gland”](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Thyroid-Gland.pdf)(PDF)  
+    Gland”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Thyroid-Gland.pdf)(PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
       
      Instructions: Please read this page to learn about the anatomy of
     the thyroid gland and its role in the endocrine system.    
@@ -121,11 +121,11 @@ Upon successful completion of this unit, the student will be able to:
     Splanchnology, Section 4b - “The Parathyroid Glands”**
     Link: Gray’s Anatomy of the Human Body: [Chapter XI - Splanchnology,
     Section 4b - “The Parathyroid
-    Glands”](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Parathyroid-Gland.pdf)(PDF)  
+    Glands”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Parathyroid-Gland.pdf)(PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
       
      Instructions: Please read this page to learn about the anatomy of
     the parathyroid glands and their role in the endocrine system.      
@@ -137,11 +137,11 @@ Upon successful completion of this unit, the student will be able to:
     Splanchnology, Section 4f - “The Chromaphil and Cortical Systems”**
     Link: Gray’s Anatomy of the Human Body: [Chapter XI - Splanchnology,
     Section 4f - “The Chromaphil and Cortical
-    Systems”](http://www.saylor.org/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Chromaphil.pdf)(PDF)  
+    Systems”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Chromaphil.pdf)(PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
       
      Instructions: Please read this page to learn about the anatomy of
     the adrenal (or suprarenal) glands and their role in the endocrine
