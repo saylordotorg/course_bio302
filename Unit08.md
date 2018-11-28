@@ -93,13 +93,13 @@ Upon successful completion of this unit, the student will be able to:
     Splanchnology, Section 1a - “The Larynx”**
     Link: Gray’s Anatomy of the Human Body: [Chapter XI - Splanchnology,
     Section 1a - “The
-    Larynx”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Larynx.pdf) (PDF)
+    Larynx”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Larynx.pdf) (PDF)
     and [Section 1b: “The Trachea and
-    Bronchi”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Trachea-and-Bronchi.pdf) (PDF)  
+    Bronchi”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Trachea-and-Bronchi.pdf) (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
       
      Instructions: Please read these webpages to learn about the anatomy
     of larynx, or the voice box, which contains the vocal cords and
@@ -134,12 +134,12 @@ Upon successful completion of this unit, the student will be able to:
     Splanchnology, Section 1e - “The Lungs”**
     Link: Gray’s Anatomy of the Human Body: [Chapter XI - Splanchnology,
     Section 1e - “The
-    Lungs”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Lungs.pdf)
+    Lungs”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Lungs.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
       
      Instructions: Please read this page to learn about the lungs, our
     major respiratory organ.  As you read, pay particular attention to
@@ -153,11 +153,11 @@ Upon successful completion of this unit, the student will be able to:
     Splanchnology, Section 1c: “The Pleurae”**
     Link: Gray’s Anatomy of the Human Body: [Chapter XI: Splanchnology,
     Section 1c: “The
-    Pleurae”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Pleurae.pdf) (PDF)  
+    Pleurae”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Pleurae.pdf) (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
       
      Instructions: Please read this entire webpage to learn about the
     structure of the pleurae, which protect and cushion the lungs.      

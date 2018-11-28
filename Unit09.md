@@ -46,11 +46,11 @@ Upon successful completion of this unit, the student will be able to:
     Splanchnology, Section 2**
     Link: Gray’s Anatomy of the Human Body: [Chapter XI: Splanchnology,
     Section
-    2](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Digestive-Apparatus.pdf)(PDF)  
+    2](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Digestive-Apparatus.pdf)(PDF)  
       
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
       
      Instructions: Please read Section 2: “The Digestive Apparatus” of
     Chapter XI: “Splanchnology” to learn about the anatomy of the
@@ -83,15 +83,15 @@ Upon successful completion of this unit, the student will be able to:
     2d - “The Esophagus”**
     Link: Gray’s Anatomy of the Human Body: [Chapter XI - Splanchnology,
     Section 2a - “The
-    Mouth”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Mouth.pdf),
+    Mouth”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Mouth.pdf),
     [2b - “The
-    Fauces,”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Fauces.pdf)and
+    Fauces,”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Fauces.pdf)and
     [2d - “The
-    Esophagus”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Esophagus.pdf)(PDF)  
+    Esophagus”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Esophagus.pdf)(PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
       
      Instructions: Please read each of these pages to learn about the
     anatomy of mouth and esophagus.  Each of the subtopics listed below
@@ -126,11 +126,11 @@ Upon successful completion of this unit, the student will be able to:
     Splanchnology, Section 2f - “The Stomach”**
     Link: Gray’s Anatomy of the Human Body: [Chapter XI - Splanchnology,
     Section 2f - “The
-    Stomach”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Stomach.pdf)(PDF)  
+    Stomach”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Stomach.pdf)(PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
       
      Instructions: Please read this page to learn about the anatomy of
     the stomach.  As you read, pay particular attention to understanding
@@ -169,13 +169,13 @@ Upon successful completion of this unit, the student will be able to:
     Large Intestine”**
     Link: Gray’s Anatomy of the Human Body: [Chapter XI - Splanchnology,
     Section 2g - “The Small
-    Intestine”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Small-Intestine.pdf)and
+    Intestine”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Small-Intestine.pdf)and
     [2h - “The Large
-    Intestine”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Large-Intenstine.pdf)(PDF)  
+    Intestine”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Large-Intenstine.pdf)(PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
       
      Instructions: Please read both of these pages to learn about the
     anatomy of the large and small intestines, where the majority of our
@@ -217,13 +217,13 @@ Upon successful completion of this unit, the student will be able to:
     Pancreas”**
     Link: Gray’s Anatomy of the Human Body: [Chapter XI - Splanchnology,
     Section 2i: “The
-    Liver”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Liver.pdf)(PDF) and
+    Liver”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Liver.pdf)(PDF) and
     [Section 2j: “The
-    Pancreas”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Pancreas.pdf)(PDF)  
+    Pancreas”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Pancreas.pdf)(PDF)  
         
      Also available in:   
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
       
      Instructions: Please read this page to learn about the anatomy of
     the liver and pancreas and their roles in the digestive system.   As
