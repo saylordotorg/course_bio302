@@ -76,7 +76,7 @@ Upon successful completion of this unit, the student will be able to:
     Splanchnology, Section 3b - “The Kidneys”**
     Link: Gray’s Anatomy of the Human Body: [Chapter XI - Splanchnology,
     Section 3b - “The
-    Kidneys”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Kidneys.pdf)(PDF)  
+    Kidneys”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Kidneys.pdf)(PDF)  
       
      Instructions: Please read this page to learn about the anatomy of
     the kidneys, the major organs of the urinary system.  As you read,
@@ -90,11 +90,11 @@ Upon successful completion of this unit, the student will be able to:
     Splanchnology, Section 3b3 - “The Urinary Bladder”**
     Link: Gray’s Anatomy of the Human Body: [Chapter XI - Splanchnology,
     Section 3b3 - “The Urinary
-    Bladder”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Urinary-Bladder.pdf)(PDF)  
+    Bladder”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Urinary-Bladder.pdf)(PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
       
      Instructions: Please read this page to learn about the anatomy of
     the bladder, the storage organ of the urinary system.     
@@ -106,11 +106,11 @@ Upon successful completion of this unit, the student will be able to:
     Splanchnology, Section 3b2 - “The Ureters**
     Link: Gray’s Anatomy of the Human Body: [Chapter XI - Splanchnology,
     Section 3b2 - “The
-    Ureters”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Ureters.pdf)(PDF)  
+    Ureters”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Ureters.pdf)(PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
       
      Instructions: Please read this page to learn about the anatomy of
     the ureters, which connect the kidneys to the bladder.     
@@ -123,13 +123,13 @@ Upon successful completion of this unit, the student will be able to:
     Female Urethra”**
     Link: Gray’s Anatomy of the Human Body: [Chapter XI - Splanchnology,
     Section 3b4 - “The Male
-    Urethra”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Male-Uretha.pdf) (PDF) and
+    Urethra”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Male-Uretha.pdf) (PDF) and
     [3b5 - “The Female
-    Urethra”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Female-Uretha.pdf)(PDF)  
+    Urethra”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Female-Uretha.pdf)(PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
       
      Instructions: Please read these two pages to learn about the
     anatomy of the urethra, which allows external elimination of liquid

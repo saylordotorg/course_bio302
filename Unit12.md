@@ -67,11 +67,11 @@ Upon successful completion of this unit, the student will be able to:
     Splanchnology, Section 3d - “The Female Genital Organs”**
     Link: Gray’s Anatomy of the Human Body: [Chapter XI - Splanchnology,
     Sections 3d - “The Female Genital
-    Organs”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Female-Genital-Organs.pdf)(PDF)  
+    Organs”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Female-Genital-Organs.pdf)(PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
       
      Instructions: Please read Section 3d - “The Female Genital Organs”
     of Chapter XI - “Splanchnology” to learn about the anatomy of the
@@ -105,11 +105,11 @@ Upon successful completion of this unit, the student will be able to:
     Splanchnology, Sections 3c - “The Male Genital Organs”**
     Link: Gray’s Anatomy of the Human Body: [Chapter XI - Splanchnology,
     Sections 3c - “The Male Genital
-    Organs”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Male-Genital-Organs.pdf) (PDF)  
+    Organs”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/06/BIO302-Anatomy_of_the_Human_Body-Chapter-XI-Male-Genital-Organs.pdf) (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/BIO302-chXI-Bartleby.com_.epub)  
       
      Instructions: Please read Section 3c - “The Male Genital Organs” of
     Chapter XI - “Splanchnology” to learn about the anatomy of the male
